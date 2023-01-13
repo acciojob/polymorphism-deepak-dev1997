@@ -17,6 +17,6 @@ public static class Product{
         Product p=new Product();
         p.product(5,5);
         p.product(5,5,5);
-        p.product(5.0,5.0);
+         p.product(5.0,5.0);
     }
 }
